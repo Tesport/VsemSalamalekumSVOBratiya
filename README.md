@@ -1,3 +1,3 @@
-python.exe -m pip install --upgrade pip
+pip install python-telegram-bot
 
 btw svo bratiya
